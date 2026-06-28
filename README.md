@@ -1,8 +1,7 @@
 # Weather Information Dashboard
 
 ## Live Demo
-https://react-essentials-assignment-weather-ten.vercel.app
-
+https://react-essentials-assignment-8y56.vercel.app
 ## GitHub Repository
 https://github.com/Yashavant08/react-essentials-assignment-weather
 
