@@ -1,5 +1,11 @@
 # Weather Information Dashboard
 
+## Live Demo
+https://react-essentials-assignment-weather-ten.vercel.app
+
+## GitHub Repository
+https://github.com/Yashavant08/react-essentials-assignment-weather
+
 A comprehensive React application built to display real-time weather details based on user input.
 
 ## Features & Implementation
